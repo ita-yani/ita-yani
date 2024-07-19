@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="center">Itayani</h1>
+<h3 align="center">Undergraduate Student Malikussaleh University</h3>
 <!--
 **ita-yani/ita-yani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
